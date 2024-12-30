@@ -14,7 +14,7 @@
       "meta": {
         "absoluteUrl": true,
         "hashAlgorithm": "sha256",
-        "multis": false,
+        "multis": true,
         "randName": false,
         "temp": false
       }
