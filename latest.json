@@ -1,5 +1,5 @@
 {
-  "msg": "修复了一些已知问题",
+  "msg": "更新了文件",
   "poster": "",
   "version": "1.0.0",
   "lowsetDiff": "0.0.2",
@@ -7,22 +7,10 @@
   "time": "2024-10-10",
   "title": "版本发布v1.0.1",
   "updates": [
-    {
-      "name": "V1_1/libstdc++-6.dll",
-      "url": "https://dgithub.xyz/123azaza/123azaza/raw/refs/heads/main/V1_1/libstdc++-6.dll",
-      "hash": "72ce15df7c50e8d0ca57701b0b37394942e5348654505fcb993873b515dfd1d0",
-      "meta": {
-        "absoluteUrl": true,
-        "hashAlgorithm": "sha256",
-        "multis": false,
-        "randName": false,
-        "temp": false
-      }
-    },
         {
       "name": "V1_1/TopConnect.exe",
       "url": "https://dgithub.xyz/123azaza/123azaza/raw/refs/heads/main/V1_1/TopConnect.exe",
-      "hash": "b696b87e5f02f817b4334a2db433cca695fb565a26e5084b2d3d49f2c2368ded",
+      "hash": "fff496ad3bdb2554d4003b2e8ef035638ec9018a39b1b283909364ca5d6b8187",
       "meta": {
         "absoluteUrl": true,
         "hashAlgorithm": "sha256",
@@ -33,22 +21,10 @@
     }
   ],
   "downloads": [
-    {
-      "name": "V1_1/libstdc++-6.dll",
-      "url": "https://dgithub.xyz/123azaza/123azaza/raw/refs/heads/main/V1_1/libstdc++-6.dll",
-      "hash": "72ce15df7c50e8d0ca57701b0b37394942e5348654505fcb993873b515dfd1d0",
-      "meta": {
-        "absoluteUrl": true,
-        "hashAlgorithm": "sha256",
-        "multis": false,
-        "randName": false,
-        "temp": false
-      }
-    },
         {
       "name": "V1_1/TopConnect.exe",
       "url": "https://dgithub.xyz/123azaza/123azaza/raw/refs/heads/main/V1_1/TopConnect.exe",
-      "hash": "b696b87e5f02f817b4334a2db433cca695fb565a26e5084b2d3d49f2c2368ded",
+      "hash": "fff496ad3bdb2554d4003b2e8ef035638ec9018a39b1b283909364ca5d6b8187",
       "meta": {
         "absoluteUrl": true,
         "hashAlgorithm": "sha256",
