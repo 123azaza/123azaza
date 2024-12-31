@@ -1,16 +1,16 @@
 {
-  "msg": "解决了已知问题\n 修改了此方法",
-  "poster": "",
+  "msg": "解决了一些已知问题",
+  "poster": "https://api.oha.li/img/?type=desktop",
   "version": "1.0.0",
   "lowsetDiff": "0.0.2",
   "resVersion": "",
-  "time": "2024-12-31",
+  "time": "2024-10-10",
   "title": "版本发布v1.0.1",
   "updates": [
-        {
-      "name": "V1_1/TopConnect.exe",
-      "url": "https://github.com/123azaza/123azaza/raw/refs/heads/main/V1_1/libstdc++-6.dll",
-      "hash": "9cf9c57c1f218fe70d2599391c67dfd724d74d0afa908478be7459c7bf50c308",
+    {
+      "name": "V1_1/libstdc++-6.dll",
+      "url": "https://dgithub.xyz/123azaza/123azaza/raw/refs/heads/main/V1_1/libstdc++-6.dll",
+      "hash": "715612765ea5b513c497958111e2fb4101a69198568b1226e7a4b5f9c6b3df35",
       "meta": {
         "absoluteUrl": true,
         "hashAlgorithm": "sha256",
@@ -21,10 +21,10 @@
     }
   ],
   "downloads": [
-        {
-      "name": "V1_1/TopConnect.exe",
-      "url": "https://github.com/123azaza/123azaza/raw/refs/heads/main/V1_1/libstdc++-6.dll",
-      "hash": "9cf9c57c1f218fe70d2599391c67dfd724d74d0afa908478be7459c7bf50c308",
+    {
+      "name": "V1_1/libstdc++-6.dll",
+      "url": "https://dgithub.xyz/123azaza/123azaza/raw/refs/heads/main/V1_1/libstdc++-6.dll",
+      "hash": "715612765ea5b513c497958111e2fb4101a69198568b1226e7a4b5f9c6b3df35",
       "meta": {
         "absoluteUrl": true,
         "hashAlgorithm": "sha256",
