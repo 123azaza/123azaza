@@ -9,7 +9,7 @@
   "updates": [
     {
       "name": "V1_1/libstdc++-6.dll",
-      "url": "https://dgithub.xyz/123azaza/123azaza/raw/refs/heads/main/V1_1/libstdc++-6.dll",
+      "url": "https://github.xyz/123azaza/123azaza/raw/refs/heads/main/V1_1/libstdc++-6.dll",
       "hash": "715612765ea5b513c497958111e2fb4101a69198568b1226e7a4b5f9c6b3df35",
       "meta": {
         "absoluteUrl": true,
@@ -23,7 +23,7 @@
   "downloads": [
     {
       "name": "V1_1/libstdc++-6.dll",
-      "url": "https://dgithub.xyz/123azaza/123azaza/raw/refs/heads/main/V1_1/libstdc++-6.dll",
+      "url": "https://github.xyz/123azaza/123azaza/raw/refs/heads/main/V1_1/libstdc++-6.dll",
       "hash": "715612765ea5b513c497958111e2fb4101a69198568b1226e7a4b5f9c6b3df35",
       "meta": {
         "absoluteUrl": true,
